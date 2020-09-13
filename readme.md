@@ -8,7 +8,6 @@
 > **Development in progress**  
 > In development progress, any changes of table structure **will be updated** directly to corresponding **migration file**.
 >
-> [Baca README Bahasa Indonesia](readme.id.md)
 
 ## About
 Genealogy (Silsilah) application to record our family members.
